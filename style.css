@@ -24,11 +24,11 @@ span{
 .second{
     background-image: url("images/top-banner.png");
     background-repeat: no-repeat;
+   
+    
 }
 section{
-   
-    height: 500px;
-   bottom padding-bottom: 150px;
+       height: 600px;
 }
 a{
     text-decoration: none;
@@ -42,6 +42,15 @@ a{
     background-image: url("Images/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
-    padding-top: 150px;
-}
+ }
+ .singel-experiance{
+     box-shadow: 10px 10px 40px grey;
+     border-radius: 5px;
+     height: 50%;
+ }
+.experiance-area{
+    background-image: url("Images/my-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
 
+}
