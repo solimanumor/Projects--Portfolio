@@ -52,5 +52,12 @@ a{
     background-image: url("Images/my-bg.png");
     background-repeat: no-repeat;
     background-position: left;
+    background-color: white;
 
+}
+#full-stack{
+    border-left: 7px solid blue;
+}
+#fful-stack{
+    border-left: 7px solid salmon;
 }
